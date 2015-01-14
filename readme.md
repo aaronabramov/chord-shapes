@@ -1,6 +1,9 @@
 C shapes
 ========
 
+- uppercase - major chords
+- lowercase - minor chords
+
 
 # I
 ```
@@ -77,8 +80,10 @@ A|   |   |   |   |   |   |   |
 E|   |   |   |   |   |   |   |
 ```
 
-#vii
+# vii
 ```
+this is V chord with vii base
+rarely used
    1   2   3   4   5   6   7
 ______________________________
 E|   |   |   |   |   |   |   |
